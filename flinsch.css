@@ -1,0 +1,53 @@
+video {
+  object-fit: cover;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+image {
+  object-fit: cover;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+
+html, body {
+  height: 100%;
+}
+html {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "white", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 150%;
+  line-height: 1.4;
+}
+body {
+  margin: 0;
+}
+
+main {
+  display: none;
+  width: 80vw;
+  left: 10%;
+  height: 40vh;
+  overflow: auto;
+  background: rgba(black, 0.66);
+  color: white;
+  position: relative;
+  padding: 1rem;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+.full-height {
+  height: 100%;
+}
+
