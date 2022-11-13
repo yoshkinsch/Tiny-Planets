@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>
+			Homepage
+		</title>
+		<link rel="stylesheet" href="flonch.css" type="text/css" >
+		<video src="file:///C:/Users/carso/Downloads/TPwebBack.mp4" autoplay loop playsinline muted></video>
+	</head>
+	<body>
+		<header class="viewport-header">
+		  <div class=elementToFadeInAndOut>
+		  <h1 style="color:white;">
+			<a href="SPC.html"><span>Tiny Planets</span></a>
+		  </h1>
+		  </div>
+		</header>
+	</body>
+</html>
